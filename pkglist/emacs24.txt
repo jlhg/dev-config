@@ -1,0 +1,4 @@
+ncurses-devel
+libXpm-devel
+giflib-devel
+libtiff-devel
